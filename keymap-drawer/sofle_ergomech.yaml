@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - {t: adjust, h: toggle}
+  - {t: \, h: bluetooth}
   - TAB
   - Q
   - W
@@ -35,7 +35,7 @@ layers:
   - J
   - K
   - L
-  - {t: ;, h: lower}
+  - {t: ;, h: symbols}
   - ''''
   - LSHFT
   - Z
@@ -61,7 +61,7 @@ layers:
   - VOLUME DOWN
   - VOLUME UP
   - MUTE
-  lower:
+  symbols:
   - {t: ▽, type: trans}
   - F1
   - F2
@@ -122,7 +122,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  adjust:
+  bluetooth:
   - BT CLR
   - {t: BT, h: '0'}
   - {t: BT, h: '1'}
@@ -134,13 +134,7 @@ layers:
   - ''
   - ''
   - ''
-  - {t: adjust, h: toggle}
-  - EP TOG
-  - RGB HUD
-  - RGB HUI
-  - RGB SAD
-  - RGB SAI
-  - RGB EFF
+  - {type: held}
   - ''
   - ''
   - ''
@@ -148,8 +142,14 @@ layers:
   - ''
   - ''
   - ''
-  - RGB BRD
-  - RGB BRI
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - ''
   - ''
   - ''
@@ -165,7 +165,7 @@ layers:
   - ''
   - ''
   - ''
-  - RGB TOG
+  - ''
   - ''
   - ''
   - ''
