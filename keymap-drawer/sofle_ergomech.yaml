@@ -49,7 +49,7 @@ layers:
   - .
   - /
   - RIGHT SHIFT
-  - ''
+  - '&studio_unlock'
   - ''
   - LEFT ALT
   - ENTER
