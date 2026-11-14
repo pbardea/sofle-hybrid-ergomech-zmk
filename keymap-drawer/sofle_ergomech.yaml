@@ -50,7 +50,7 @@ layers:
   - /
   - RIGHT SHIFT
   - '&studio_unlock'
-  - ''
+  - {t: B, h: bluetooth}
   - LEFT ALT
   - ENTER
   - LEFT COMMAND
